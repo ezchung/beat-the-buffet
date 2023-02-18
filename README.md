@@ -8,6 +8,8 @@ Beat the Buffet is a full stack application meant for mobile use. Users can reco
 
 # Table of Contents
 1. [Features](#Features)
+2. [Purpose](#Purpose)
+3. [Tech Stack](#Tech-stack)
 
 ## Features
 * Utilizes RESTful API
