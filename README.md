@@ -42,3 +42,15 @@ if you beat the buffet and by how much.
 
 ### Database Management
 ![alt text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Purpose of Each Tech Stack
+With Backend and Database, I will be storing
+- User information (login, meals, friends)
+- The database will be used to connect friends together
+--Visual incoming
+
+With frontend, React
+- The components will include the meal information display. 
+-- Future would be a more mobile friendly application
+
+
